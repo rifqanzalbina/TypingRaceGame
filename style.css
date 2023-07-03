@@ -1,0 +1,68 @@
+body{
+    background-color: green;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.title{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle{
+    font-size: 16px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.quote{
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 50px;
+}
+
+.message{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.input-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type="text"]{
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: #45a049;
+}
+  
+input[type="text"].error {
+    border-color: red;
+}
+  
+.highlight {
+    background-color: yellow;
+}
