@@ -1,5 +1,5 @@
 # TypingRaceGame
-A Simple Typing race game logic
+A Simple Typing race game logic 
 
 # About
 This game you can custom to make a better GUI or better UI at this typing game
