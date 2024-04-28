@@ -1,4 +1,4 @@
-# TypingRaceGame
+# TypingRaceGame 
 A Simple Typing game 
 
 # About
