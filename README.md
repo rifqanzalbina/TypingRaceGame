@@ -1,5 +1,5 @@
-# TypingRaceGame
-A Simple Typing game
+# TypingRaceGame 
+A Simple Typing game just using HTML , CSS and JS
 
 # About
 This is a simple typing game , not much features of this repository,  <br> 
